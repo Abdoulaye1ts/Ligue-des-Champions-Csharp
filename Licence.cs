@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace d1_tp7
+namespace Ligue_des_champions
 {
     public class Licence
     {
