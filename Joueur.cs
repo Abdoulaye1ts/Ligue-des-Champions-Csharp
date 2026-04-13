@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ligue_des_champions
+namespace Ligue_des_champions 
 {
     public class Joueur
     {
